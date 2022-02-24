@@ -1,0 +1,53 @@
+.footer{ 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100vw;
+    height: 20rem;
+    background: var(--elm);
+    padding: 2rem 3rem;
+}
+
+.list{ 
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    list-style: none;
+    width: 32rem;
+}
+
+.listitem{
+    width: 100%;
+    text-align: left;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.address{
+    width: 100%;
+    text-align: left;
+    font-size: 1rem;
+}
+
+.social{ 
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    height: 100%;
+    gap: 1.7rem;
+}
+
+#link{ 
+    text-decoration: none;
+}
+
+#socialicon{ 
+    width: 4rem;
+}
+
+@media (max-width:768px){
+    .footer{
+        flex-direction: column;
+    }
+}

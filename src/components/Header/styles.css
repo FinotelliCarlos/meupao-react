@@ -1,0 +1,18 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100vw;
+    padding: .5rem 2rem;
+    background: var(--elm);
+}
+
+.topname{
+    color: var(--tt4);
+    font-size: 1.8rem;
+}
+
+.bag{
+    border: none;
+    background: none;
+}
