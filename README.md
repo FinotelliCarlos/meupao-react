@@ -38,7 +38,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 </div>
 <br>
 
-Acessar o projeto diretamente clicando [aqui](https://app-meupaoreact.herokuapp.com/).
+Acessar o projeto diretamente clicando [aqui](https://app-meupaoreact.herokuapp.com/).<br>
 Acesse também o prototipo no figma clicando [aqui](https://www.figma.com/file/En6cWVsEZVd6xWwGICMRU7/Untitled?node-id=0%3A1).
 
 ---
