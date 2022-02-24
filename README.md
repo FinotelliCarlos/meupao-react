@@ -13,7 +13,7 @@
 <br>
 <div align="left">
 
-Esta landpage trás uma referencia a uma vitrine de padaria, e oque o pão representa para nós?<br>
+Esta landpage trás uma referencia a uma vitrine de padaria, e oque o pão representa para você?<br>
 Ele faz parte do seu café e do seu dia e para toda sua vida.
 </div>
 
