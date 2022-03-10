@@ -4,9 +4,10 @@ import { SuccessItems } from "./components/SuccessItems";
 import { MoreItems } from "./components/MoreItems";
 import { Messages } from "./components/Messages";
 import { Footer } from "./components/Footer";
+import { Modal } from "./components/Modal";
 
-import "./styles/global.css";
-import "./styles.css";
+import "./styles/global.scss";
+import "./styles.scss";
 
 function App() {
   return (
@@ -15,8 +16,9 @@ function App() {
       <main className="main">
         <Presentation />
         <div className="mainitems">
-            <SuccessItems />
-            <MoreItems />
+          <SuccessItems />
+          <MoreItems />
+          {/* <Modal /> */}         
         </div>
         <Messages />
       </main>

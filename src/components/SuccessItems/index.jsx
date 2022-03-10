@@ -1,5 +1,5 @@
 import React from "react";
-import "./styles.css";
+import "./styles.scss";
 import { IoMdMore } from "react-icons/io";
 import { SuccessItemList } from "../../services/api";
 
